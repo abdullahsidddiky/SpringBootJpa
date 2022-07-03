@@ -14,5 +14,11 @@
          Name: <input type = "text" name = "aname" />
          <input type = "submit" value = "Submit" />
       </form>
+      <form action = "getAlien">
+         Id: <input type = "text" name = "aid">
+         <br />
+         
+         <input type = "submit" value = "Submit" />
+      </form>
 </body>
 </html>
